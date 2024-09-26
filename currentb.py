@@ -1,7 +1,7 @@
 def generate_bill(units):
     if units <= 200:
         bill_amount = 0
-        bill_status = "Free (Scheme)"
+        bill_status = "gruha jyothi sceme"
     else:
         bill_amount = (units - 200) * 5
         bill_status = "Charged"
